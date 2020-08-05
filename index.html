@@ -1,0 +1,128 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>QQ音乐</title>
+    <link rel="stylesheet" href="css/jquery.mCustomScrollbar.css">
+    <link rel="stylesheet" href="css/index.css">
+    <script src="js/jquery-1.12.4.js"></script>
+    <script src="js/jquery.mCustomScrollbar.concat.min.js"></script>
+    <script src="js/player.js"></script>
+    <script src="js/progress.js"></script>
+    <script src="js/lyric.js"></script>
+    <script src="js/index.js"></script>
+
+</head>
+<body>
+        <!-- 页头  -->
+        <header class="header clearfix">
+            <h1 class="logo">
+                <a href=""></a>
+            </h1>
+            <ul class="login">
+                <li >登陆</li>
+                <li >设置</li>
+            </ul>
+        </header>
+        <!-- 内容区  -->
+        <div class="content">
+            <div class="content_in">
+                <!-- 内容区左半部分  -->
+                <div class="content_left">
+                    <!-- 内容区右半部分导航栏  -->
+                    <div class="content_toolbar">
+                        <span><i></i>收藏</span>
+                        <span><i></i>添加到</span>
+                        <span><i></i>下载</span>
+                        <span><i></i>删除</span>
+                        <span><i></i>清空列表</span>
+                    </div>
+                    <div class="content_list" data-mcs-theme="minimal-dark">
+                        <ul>
+                            <!-- 内容区右半部分菜单栏  -->
+                            <li class="list_title">
+                                <div class="list_check">
+                                    <i></i>
+                                </div>
+                                <div class="list_number">
+
+                                </div>
+                                <div class="list_name">
+                                    歌曲
+                                </div>
+                                <div class="list_singer">
+                                    歌手
+                                </div>
+                                <div class="list_time">
+                                    时长
+                                </div>
+                            </li>
+                        </ul>
+                    </div>
+                </div>
+                <!-- 内容区右半部分  -->
+                <div class="content_right">
+                        <div class="song_inf">
+                            <a href="javascript:;" class="song_inf_pic">
+                                <img src="music/Move Your Body.webp" alt="">
+                            </a>
+                            <div class="song_inf_name">歌曲名:
+                                <a href="javascript:;"></a>
+                            </div>
+                            <div class="song_inf_singer">歌手名:
+                                <a href="javascript:;"></a>
+                            </div>
+                            <div class="song_inf_ablum">专辑名:
+                                <a href="javascript:;"></a>
+                            </div>
+                        </div>
+                    <div class="song_lyrics_container">
+                        <ul class="song_lyrics">
+
+                        </ul>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <!-- 页脚  -->
+        <footer class="footer">
+            <div class="footer_in">
+                <a href="javascript:;" class="music_pre"></a>
+                <a href="javascript:;" class="music_stop"></a>
+                <a href="javascript:;" class="music_nex"></a>
+                <div class="music_progress_info">
+                    <div class="music_progress_top">
+                        <span class="music_progress_name"></span>
+                        <span class="music_progress_time"></span>
+                    </div>
+                    <div class="music_progress_bar">
+                        <div class="music_progress_line">
+                            <div class="music_progress_dot"></div>
+                        </div>
+                    </div>
+                </div>
+                <a href="javascript:;" class="music_mode"></a>
+                <a href="javascript:;" class="music_fav"></a>
+                <a href="javascript:;" class="music_down"></a>
+                <a href="javascript:;" class="music_comment"></a>
+                <a href="javascript:;" class="music_only"></a>
+                <div class="music_voice_info">
+                    <a href="javascript:;" class="music_voice_icon">
+
+                    </a>
+                    <div class="music_voice_bar">
+                        <div class="music_voice_line">
+                            <div class="music_voice_dot"></div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </footer>
+        <!-- 背景 -->
+        <div class="mask_bg"></div>
+        <!-- 遮罩 -->
+        <div class="mask"></div>
+        <!-- 音频 -->
+        <audio src=""></audio>
+</body>
+</html>

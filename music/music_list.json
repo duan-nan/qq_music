@@ -1,0 +1,101 @@
+[
+  {
+    "name":"Move Your Body",
+    "singer": "Sia / Alan Walker",
+    "album": "This Is Acting (Aeluxe Version)",
+    "time": "03:37",
+    "link_url":"./music/Move Your Body.mp3",
+    "cover":"./music/Move Your Body.webp",
+    "link_lrc":"./music/Move Your Body.txt"
+  },
+  {
+    "name":"信仰",
+    "singer": "刘大壮",
+    "album": "信仰",
+    "time": "03:40",
+    "link_url":"./music/信仰.mp3",
+    "cover":"./music/信仰.jpg",
+    "link_lrc":"./music/信仰.txt"
+  },
+  {
+    "name":"夏天的风",
+    "singer": "Uu",
+    "album": "夏天的风",
+    "time": "03:50",
+    "link_url":"./music/夏天的风.mp3",
+    "cover":"./music/夏天的风.jpg",
+    "link_lrc":"./music/夏天的风.txt"
+  },
+  {
+    "name":"大鱼",
+    "singer": "周深",
+    "album": "大鱼",
+    "time": "05:13",
+    "link_url":"./music/大鱼.mp3",
+    "cover":"./music/大鱼.jpg",
+    "link_lrc":"./music/大鱼.txt"
+  },
+  {
+    "name":"孤独",
+    "singer": "王佳杨",
+    "album": "孤独",
+    "time": "05:00",
+    "link_url":"./music/孤独.mp3",
+    "cover":"./music/孤独.jpg",
+    "link_lrc":"./music/孤独.txt"
+  },
+  {
+    "name":"微微",
+    "singer": "孙子涵",
+    "album": "微微",
+    "time": "03:01",
+    "link_url":"./music/微微.mp3",
+    "cover":"./music/微微.jpg",
+    "link_lrc":"./music/微微.txt"
+  },
+  {
+    "name":"我们的纪念",
+    "singer": "徐薇",
+    "album": "我们的纪念",
+    "time": "04:29",
+    "link_url":"./music/我们的纪念.mp3",
+    "cover":"./music/我们的纪念.jpg",
+    "link_lrc":"./music/我们的纪念.txt"
+  },
+  {
+    "name":"无人之岛",
+    "singer": "鸣小明",
+    "album": "无人之岛（完整版）",
+    "time": "03:19",
+    "link_url":"./music/无人之岛.mp3",
+    "cover":"./music/无人之岛.jpg",
+    "link_lrc":"./music/无人之岛.txt"
+  },
+  {
+    "name": "甜甜咸咸",
+    "singer": "赵芷彤",
+    "album": "甜甜咸咸",
+    "time": "03:17",
+    "link_url": "./music/甜甜咸咸.mp3",
+    "cover": "./music/甜甜咸咸.jpg",
+    "link_lrc":"./music/甜甜咸咸.txt"
+  },
+  {
+    "name":"破茧",
+    "singer": "张韶涵",
+    "album": "破茧《斗罗大陆》2020年新主题曲",
+    "time": "03:31",
+    "link_url":"./music/破茧.mp3",
+    "cover":"./music/破茧.jpg",
+    "link_lrc":"./music/破茧.txt"
+  },
+  {
+    "name":"离人愁",
+    "singer": "李袁杰",
+    "album": "离人愁",
+    "time": "04:08",
+    "link_url":"./music/离人愁.mp3",
+    "cover":"./music/离人愁.jpg",
+    "link_lrc":"./music/离人愁.txt"
+  }
+]
